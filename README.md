@@ -1,8 +1,8 @@
 ### Ejercicio de análisis
 
-Descarga el código del proyecto ```git@github.com:julparper/jfx2_mvcsimple.git```. Ejecuta la aplicación y analiza las siguientes cuestiones:
+Descarga el código del proyecto ```git@github.com:julparper/jfx2_mvcsimple.git``` Ejecuta la aplicación y analiza las siguientes cuestiones:
 
-1. ¿Qué significa los elementos del diseño?
+1. ¿Qué significan los elementos del diseño?
 2. ¿Qué elementos encontramos en cada paquete?
 3. ¿Qué hace el método main de la clase App?
 4. ¿Qué hace el método start?
